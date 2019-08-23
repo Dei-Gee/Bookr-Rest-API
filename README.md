@@ -16,4 +16,4 @@ Follow the instructions below in order to run the app Rest API. You can test the
 6. Run the main class in the "MainAPIClass" package as a spring application.
 7. You'll know if it is running correctly if you get a *white label error* in the           browser and the last line in the terminal says it is running with no errors.  
 
-**Note: This API will eventually be deployed on Heroku**
+**Note: This API will eventually be deployed on AWS**
