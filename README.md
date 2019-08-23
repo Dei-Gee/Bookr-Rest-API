@@ -1,5 +1,5 @@
 # BOOKR (Rest-API)
-This is a Rest API built in Java and bootstrapped with Springboot from start.spring.io
+This is a Rest API built in Java and bootstrapped with Springboot from start.spring.io. It is a revamped version of the project located [here](https://github.com/csis-3275/Bookr/tree/develop_beta). This version will be deployed so the project was split into two separate repositories for the [web app](https://github.com/Dei-Gee/Bookr-Web-App) and rest api.
 
 ## Development Environment Setup
 Follow the instructions below in order to run the app Rest API. You can test the API endpoints using PostMan. 
