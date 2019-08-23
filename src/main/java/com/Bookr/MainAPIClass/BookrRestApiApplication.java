@@ -18,7 +18,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 @SpringBootApplication
 @ComponentScan(basePackages = {"com.Bookr.Controllers", "com.Bookr.Services"})
 @EntityScan("com.Bookr.Entities")
-@EnableJpaRepositories("com.Bookr.Boundaries")
+@EnableJpaRepositories("com.Bookr.Repositories")
 public class BookrRestApiApplication {
 
 	public static void main(String[] args) {
